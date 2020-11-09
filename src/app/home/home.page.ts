@@ -9,4 +9,7 @@ export class HomePage {
 
   constructor() {}
 
+  slidesOptions = {
+    slidesPerView: 1.5
+  }
 }
